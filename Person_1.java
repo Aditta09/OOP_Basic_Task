@@ -12,10 +12,11 @@ class Person_1 {
     }
 
     public static void main(String[] args) {
-        Person_1 p1 = new Person_1("Sakibul", 20);
-        Person_1 p2 = new Person_1("Koushik", 35);
+        Person_1 p1 = new Person_1("Aditta", 20);
+        Person_1 p2 = new Person_1("Joya", 35);
 
         p1.displayInfo();
         p2.displayInfo();
     }
 }
+
